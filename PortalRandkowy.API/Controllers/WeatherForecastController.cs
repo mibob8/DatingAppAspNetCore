@@ -53,7 +53,7 @@ namespace PortalRandkowy.API.Controllers
 
             throw new Exception("Wygenerowany błąd");
            
-            return "tołdi";
+            return "testowy błąd";
         }
     }
 }
