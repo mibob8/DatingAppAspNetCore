@@ -52,7 +52,7 @@ namespace PortalRandkowy.API.Controllers
             // .ToArray();
  
            
-            return "tołdi";
+            return "testowy błąd";
         }
     }
 }
