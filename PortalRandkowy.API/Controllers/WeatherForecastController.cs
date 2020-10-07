@@ -50,8 +50,7 @@ namespace PortalRandkowy.API.Controllers
             //     Summary = Summaries[rng.Next(Summaries.Length)]
             // })
             // .ToArray();
-
-            throw new Exception("Wygenerowany błąd");
+ 
            
             return "tołdi";
         }
